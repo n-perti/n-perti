@@ -61,7 +61,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-![snake gif](https://github.com/n-perti/n-perti/blob/output/github-contribution-grid-snake.gif)
+<div align="centre">
+  <img src="https://github.com/n-perti/n-perti/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</div>
 
 ###
