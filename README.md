@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light"  />
-</div>
-
 ###
 
 <div align="center">
